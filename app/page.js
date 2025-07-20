@@ -1,9 +1,9 @@
-import DataFetchingDemo from "@/components/DataFetchingDemo.js";
+import ServerActionsDemo from "@/components/ServerActionsDemo.js";
 
 export default function Home() {
   return (
     <main>
-      <DataFetchingDemo />
+      <ServerActionsDemo />
     </main>
   );
 }
